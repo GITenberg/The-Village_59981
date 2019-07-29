@@ -1,0 +1,35 @@
+_repo: The-Village_59981
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hapgood, Isabel Florence
+    alias: Hapgood, Isabel F.
+    birthdate: 1850
+    deathdate: 1928
+    gutenberg_agent_id: '33608'
+    url: http://www.gutenberg.org/2009/agents/33608
+    wikipedia: http://en.wikipedia.org/wiki/Isabel_Florence_Hapgood
+creator:
+  author:
+    agent_name: Bunin, Ivan Alekseevich
+    aliases:
+    - Бунин, Иван Алексеевич
+    - Bunin, Ivan Alekseyevich
+    - Bunin, I. A. (Ivan Alekseevich)
+    birthdate: 1870
+    deathdate: 1953
+    gutenberg_agent_id: '38667'
+    url: http://www.gutenberg.org/2009/agents/38667
+description: ''
+gutenberg_issued: '2019-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59981'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Village
+url: http://www.gutenberg.org/ebooks/59981
